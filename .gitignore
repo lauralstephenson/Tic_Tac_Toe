@@ -1,0 +1,12 @@
+/.idea
+/.vscode
+/art
+/game_data.py
+/main1.py
+/main2.py
+/main5.py
+/main6.py
+/simple_tic.py
+/tic.py
+/tic_game
+/__pycache__

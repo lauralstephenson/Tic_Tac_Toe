@@ -1,0 +1,9 @@
+Create a new Python file called "tic_tac_toe.py".
+Design the Tic Tac Toe board.
+Store information using data structures.
+Set up a game loop.
+Handle player input.
+Update the board based on player moves.
+Check for a win or draw.
+Switch between players.
+Optionally, enter player names.
